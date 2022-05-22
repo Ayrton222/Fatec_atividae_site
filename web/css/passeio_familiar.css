@@ -1,0 +1,45 @@
+
+    p{
+      font-size: 13px;
+    }
+
+    h4{
+        font-size: 20px;
+        text-align: center;
+        margin-bottom: 80px;
+        margin-top: -66px;
+    }
+
+    .img{
+    display: flex;
+    width: 450px;
+    height: 250px;
+    margin-left: 475px;
+    }
+
+    h5{
+      text-align: center;
+      margin-bottom: 5px;
+      margin-top: 11px;
+    }
+
+    .parque{
+      font-size: 15px;
+      font-family: Arial, Helvetica, sans-serif;
+      text-align: center;
+      margin-left: 180px;
+      margin-right: 170px;
+    }
+
+    .info{
+      color: blue;
+    }
+  
+    
+  
+  
+  
+  
+  
+  
+  
